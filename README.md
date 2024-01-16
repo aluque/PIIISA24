@@ -10,6 +10,6 @@ Notas para las sesiones PIIISA 2024
 - Cuaderno transformada de Fourier: <https://colab.research.google.com/drive/1trMxKqMNgx_zhAhO8qanTs3R9YwXn5z7?usp=sharing>.	
 ### El experimento 
 - Espectrograma on-line: <https://spectrogram.sciencemusic.org>.
-- ![conexion](conexion.png)
+- [Conexión](conexion.png).
 - Cuaderno para grabar y analizar datos
   

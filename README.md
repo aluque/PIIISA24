@@ -13,5 +13,4 @@ Notas para las sesiones PIIISA 2024
 ### El experimento 
 - Espectrograma on-line: <https://spectrogram.sciencemusic.org>.
 - [Conexión](conexion.png).
-- Cuaderno para grabar y analizar datos
-  
+- Cuaderno para grabar y analizar datos: <https://colab.research.google.com/drive/11SJQowiPm58Vx00I7EKbtYxcReVmadUz?usp=sharing>.

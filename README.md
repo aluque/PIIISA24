@@ -14,3 +14,5 @@ Notas para las sesiones PIIISA 2024
 - Espectrograma on-line: <https://spectrogram.sciencemusic.org>.
 - [Conexión](conexion.png).
 - Cuaderno para grabar y analizar datos: <https://colab.research.google.com/drive/11SJQowiPm58Vx00I7EKbtYxcReVmadUz?usp=sharing>.
+### Referencias
+- [M. Füllekrug, "Exploration of the electromagnetic environment", 2009 Phys. Educ. 44 133](https://cloud.iaa.csic.es/index.php/s/BYmeAYTbrfBBAZx).

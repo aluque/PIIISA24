@@ -16,3 +16,14 @@ Notas para las sesiones PIIISA 2024
 - Cuaderno para grabar y analizar datos: <https://colab.research.google.com/drive/11SJQowiPm58Vx00I7EKbtYxcReVmadUz?usp=sharing>.
 ### Referencias
 - [M. Füllekrug, "Exploration of the electromagnetic environment", 2009 Phys. Educ. 44 133](https://cloud.iaa.csic.es/index.php/s/BYmeAYTbrfBBAZx).
+
+## Segunda sesión
+### Detección de rayos:
+- Detector de rayos con Arduino: <https://projecthub.arduino.cc/runtimeprojects/a-lightning-detector-for-arduino-68c86c>
+
+### Trilateración
+- <https://docs.google.com/presentation/d/1IiE2uX2RJqTuA-fJ3i5O-ErE-Lg4AxU7/edit?usp=sharing&ouid=106304639228625269265&rtpof=true&sd=true>
+### Experimento
+- [Mapa IAA] (Mapa_IAA_ub.pdf).
+- Cuaderno <https://colab.research.google.com/drive/16tWl48kAi2sMt7b1q_hbsu79LSLxoA-W#scrollTo=X5gmFVxYvAeS>
+

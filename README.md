@@ -27,3 +27,6 @@ Notas para las sesiones PIIISA 2024
 - [Mapa IAA](Mapa_IAA_ub.pdf).
 - Cuaderno <https://colab.research.google.com/drive/16tWl48kAi2sMt7b1q_hbsu79LSLxoA-W#scrollTo=X5gmFVxYvAeS>
 
+
+## Tercera sesión
+- [Cuestiones](cuestiones.md)

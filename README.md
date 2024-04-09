@@ -30,3 +30,6 @@ Notas para las sesiones PIIISA 2024
 
 ## Tercera sesión
 - [Cuestiones](cuestiones.md)
+- Google doc: <https://docs.google.com/document/d/1lQ5n7lZ5Nq4e55ipFb6zq1ppH2eqHxFHsCv-JnJVGho/edit?usp=sharing>.
+- Canva: <https://www.canva.com/design/DAGB7lOYxQ4/Z8zRrbRjqwPgxG4Mp1GJvg/edit?utm_content=DAGB7lOYxQ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
+
